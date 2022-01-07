@@ -1,7 +1,7 @@
 noctis:  
 
   # Fonts
-  primary-font-family: 'Raleway,sans-serif'
+  primary-font-family: 'Lato'
   paper-font-common-base_-_font-family: "var(--primary-font-family)"
   paper-font-common-code_-_font-family: "var(--primary-font-family)"
   paper-font-body1_-_font-family: "var(--primary-font-family)"
